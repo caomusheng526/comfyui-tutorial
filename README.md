@@ -6,4 +6,4 @@
 
 ### Contact
 
-<img width="200" src="https://github.com/Ewall1106/comfyui-tutorial/blob/main/wx.jpg"/>
+<img width="200" src="https://github.com/Ewall1106/comfyui-tutorial/blob/main/wechat.jpg"/>
