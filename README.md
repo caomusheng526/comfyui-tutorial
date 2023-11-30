@@ -1,6 +1,6 @@
 # ComfyUI-Tutorial
 
-> 有用的话帮我点个 star 再走吧 ⭐️❤️
+> 有用的话帮我点个 star 再走吧 ⭐️
 
 [视频教程](https://space.bilibili.com/286105945/channel/collectiondetail?sid=1819119) | [腾讯文档](https://docs.qq.com/doc/DSkdOZmJxTEFSTFJY) | [模型下载](https://zhuzhukeji.cn/zhuxia)
 
