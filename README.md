@@ -46,4 +46,4 @@
 
 # 加群交流
 
-<img width="160" src="./wechat.jpg"/>
+<img width="180" src="./wechat.jpg"/>
