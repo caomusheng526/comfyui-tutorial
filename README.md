@@ -39,6 +39,7 @@
 ### 使用 SVD 模型
 
 - ComfyUI+SVD 文生图+图生视频
+- ComfyUI+SVD+SDXL-Turbo 生成文生图+图生视频
 
 ### 探索发现
 
