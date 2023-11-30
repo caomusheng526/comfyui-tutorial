@@ -1,8 +1,8 @@
 # ComfyUI-Tutorial
 
-> 有用的话帮我点个 star 再走吧 ⭐️
+> 有用的话帮我点个 star 再走吧 ⭐️❤️
 
-[视频教程](https://space.bilibili.com/286105945/channel/collectiondetail?sid=1819119) | [腾讯文档](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=Mzk0NDUxNjM5MQ==&scene=1&album_id=3160603153462165511)
+[视频教程](https://space.bilibili.com/286105945/channel/collectiondetail?sid=1819119) | [腾讯文档](https://docs.qq.com/doc/DSkdOZmJxTEFSTFJY) | [模型下载](https://zhuzhukeji.cn/zhuxia)
 
 # 目录大纲
 
